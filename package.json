@@ -1,6 +1,6 @@
 {
   "name": "@scola/db-mysql",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "MySQL Wrapper",
   "repository": "github:scola84/db-mysql",
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
